@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6182aaa86c98fe5f71eb89e676bb836c4a4046f4">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9db4ecd5887f229f3ad99168a6dcd98f4935ce5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\99898bac1f0a494f81336a3bc1e736a63e7462b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d207bbe47c1b7faec665964bc6483ca81f6f4670\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\e429d487c877a5e86196e4b6c3166de96000466e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e946f3ed49388ceed3419b5652e37464b05c32f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\99898bac1f0a494f81336a3bc1e736a63e7462b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_d207bbe47c1b7faec665964bc6483ca81f6f4670.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\e03a7d365d58d7d153dfab4fdd82b962d6cfaee6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b635e6c28bfb0de896efc2763430ecc021574143\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\e429d487c877a5e86196e4b6c3166de96000466e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_e946f3ed49388ceed3419b5652e37464b05c32f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\1e9c2a23dadff9bb30168a97cbf72381f7f0b7de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d45b277afdf55bcfdc005c03c0c2f1733aaa1b0">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_21115485569f63c8c02c8b417a2aa795dc4c0d5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\common-1.0.0_499ac6254e07c4dfec1cae1c399c3f2ef66a4b13.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\1e9c2a23dadff9bb30168a97cbf72381f7f0b7de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d45b277afdf55bcfdc005c03c0c2f1733aaa1b0">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21115485569f63c8c02c8b417a2aa795dc4c0d5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\e03a7d365d58d7d153dfab4fdd82b962d6cfaee6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_b635e6c28bfb0de896efc2763430ecc021574143.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\4adb2fd7d274a28cb391c80f658c2dfa3ed3d54d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5423d080755901cc399daa76490ee65820e75fb">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_49ad568830563208b83ba95a36fddc5d773d1e7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.2_68130cc9f9d66debcdb8eee9d6e6bbb29e6e0976\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_499ac6254e07c4dfec1cae1c399c3f2ef66a4b13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\c89dffb03ab75d8db1281d23071d39eba1b72ad5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f89a456f53fccd2c0c6e716699202fc500a25cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\02c88c2cf4b4578cf9f141ee33d9a64f6a728aba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_d6306a3dfb9e15efe525581c3909dbecba4c23fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\gson-2.8.2_68130cc9f9d66debcdb8eee9d6e6bbb29e6e0976.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\02c88c2cf4b4578cf9f141ee33d9a64f6a728aba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6306a3dfb9e15efe525581c3909dbecba4c23fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\c89dffb03ab75d8db1281d23071d39eba1b72ad5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_4f89a456f53fccd2c0c6e716699202fc500a25cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\14cccb1b6848aa6f1eb6d4c786d0a5203bbb5997\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_0111edad6003afdb248045de4c93c9fbd1cc2ab1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\14cccb1b6848aa6f1eb6d4c786d0a5203bbb5997\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0111edad6003afdb248045de4c93c9fbd1cc2ab1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\4adb2fd7d274a28cb391c80f658c2dfa3ed3d54d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5423d080755901cc399daa76490ee65820e75fb">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_49ad568830563208b83ba95a36fddc5d773d1e7a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\1aff924f2e2ba6dbb3109550855cb56d0084e081\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c275cb7292ff39952aacb1f2076aa7a728a72bda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\6209451aaae4636610b873560bf47b7bf93d86cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_011b7767209bb995312920e62060100018ae8d48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\a0607660b9d94796672f9bd2e02fe86a44e90bc2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_96edd896f1c0b374f9474741577b3b61e827d267\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\common-1.0.0_19d3f53c7634c1e8dffd1f9488c0e00dd81496f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\1aff924f2e2ba6dbb3109550855cb56d0084e081\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_c275cb7292ff39952aacb1f2076aa7a728a72bda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\6209451aaae4636610b873560bf47b7bf93d86cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_011b7767209bb995312920e62060100018ae8d48.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_19d3f53c7634c1e8dffd1f9488c0e00dd81496f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\c7aab20214745b2921247072f7cc517350a4ab54\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="932078b2f30750bc5377ca4df58f3426c8cc875b">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b3e4e80e1540b0844161e66dfee1c9546979391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\a93bad9e904a09a150a6453f20183a8fbca46c4e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86c57f3fa823e5f2c0a52f2291e95d7c148ed75e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\a0607660b9d94796672f9bd2e02fe86a44e90bc2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_96edd896f1c0b374f9474741577b3b61e827d267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\a93bad9e904a09a150a6453f20183a8fbca46c4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_86c57f3fa823e5f2c0a52f2291e95d7c148ed75e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\c7aab20214745b2921247072f7cc517350a4ab54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="932078b2f30750bc5377ca4df58f3426c8cc875b">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_9b3e4e80e1540b0844161e66dfee1c9546979391.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_7a3052a24245447111e44556e081de19b0bd2f45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\08a6ca8cddb3bab352b5e622e220686e7ee7e102\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99642927e384b425ab4e7c62c53a97a92eaef35d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_085d3bab861b0648b6cbade082a6e17c66192d0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\459b4b0acb5c899eb7f93fe2943bfb928284afb7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6de533a99d4b3cfbad0cc403d947ae2a45bb900a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\08a6ca8cddb3bab352b5e622e220686e7ee7e102\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_99642927e384b425ab4e7c62c53a97a92eaef35d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\459b4b0acb5c899eb7f93fe2943bfb928284afb7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_6de533a99d4b3cfbad0cc403d947ae2a45bb900a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_3a15d73da1ffd56bfdbbbbe7ed78bd9e271b7a93.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_3a15d73da1ffd56bfdbbbbe7ed78bd9e271b7a93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\743dbd1bde0b0d834c0bb2db2e43f04200b678e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72cafacb31df7b5b1d27d999710359a2e738e936\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NJG_3\.android\build-cache\3fe993f515ceb15d61fba501b3afb2e5214a69d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\pre-dexed\debug\classes_268bf34f6b522d34f132b465387a4accf4d69e1f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NJG_3\.android\build-cache\3fe993f515ceb15d61fba501b3afb2e5214a69d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="C:\Users\NJG_3\.AndroidStudio2.3\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_268bf34f6b522d34f132b465387a4accf4d69e1f\classes.dex" />
+    </item>
+
+</items>

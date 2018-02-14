@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPSApp</string>
+    <string name="msmHasPermissionLocation">Ya se tienen todos los permisos de localización</string>
+    <string name="msmRequesPermissionLocation">Se esta realizando el permiso</string>
+    <string name="msmGrandendPermissionLocation">El usuario ya otorgo los permisos</string>
+    <string name="msmNoLocation">Ubicación no encontrada..</string>
+</resources>
